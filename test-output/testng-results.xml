@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-30T13:04:49 PDT" name="testNG Google Finance" finished-at="2023-09-30T13:04:55 PDT" duration-ms="6276">
+    <groups>
+    </groups>
+    <test started-at="2023-09-30T13:04:49 PDT" name="testGoogleFinanceTest" finished-at="2023-09-30T13:04:55 PDT" duration-ms="6276">
+      <class name="googleFinancePack.GoogleFinanceTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:googleFinancePack.GoogleFinanceTest@21de60b4]" started-at="2023-09-30T13:04:49 PDT" name="setUp" finished-at="2023-09-30T13:04:53 PDT" duration-ms="3961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGoogleFinance()[pri:0, instance:googleFinancePack.GoogleFinanceTest@21de60b4]" started-at="2023-09-30T13:04:53 PDT" name="testGoogleFinance" finished-at="2023-09-30T13:04:55 PDT" duration-ms="2137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleFinance -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:googleFinancePack.GoogleFinanceTest@21de60b4]" started-at="2023-09-30T13:04:55 PDT" name="closeBrowser" finished-at="2023-09-30T13:04:55 PDT" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- googleFinancePack.GoogleFinanceTest -->
+    </test> <!-- testGoogleFinanceTest -->
+  </suite> <!-- testNG Google Finance -->
+</testng-results>

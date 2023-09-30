@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="testNG Google Finance">
+    <listeners>
+        <listener class-name="googleFinancePack.TestListener" />
+    </listeners>
+    <test name="testGoogleFinanceTest">
+        <classes>
+            <class name="googleFinancePack.GoogleFinanceTest" />
+        </classes>
+    </test>
+</suite>
+
